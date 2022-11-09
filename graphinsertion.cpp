@@ -15,7 +15,6 @@ void displaymat(int vertices){
        
 
     }
-
 }
 void edges(int u,int v){
     adjmat[u][v]=1;
